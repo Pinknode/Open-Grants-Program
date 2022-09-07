@@ -105,7 +105,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Testnet | [Polkadot Launch](https://github.com/paritytech/polkadot-launch) :yellow_circle:, [polkadot-starship](https://github.com/koute/polkadot-starship) :red_circle:, [Fork off Substrate](https://github.com/maxsam4/fork-off-substrate) :red_circle:, [Parachain Launch](https://github.com/open-web3-stack/parachain-launch) :green_circle:|
 | Benchmarking | [Substrate Graph Benchmarks](https://github.com/shawntabrizi/substrate-graph-benchmarks) :red_circle:|
 | Blockchain Indexing Engine | [Substrate Archive](https://github.com/paritytech/substrate-archive) :green_circle:, [PSQL Indexer](https://github.com/usetech-llc/polkadot_psql_indexer) :red_circle:, [Polkadothub Indexer](https://github.com/figment-networks/polkadothub-indexer) :yellow_circle:, [Substrate Graph](https://github.com/playzero/substrate-graph) :red_circle:, [Hydra](https://github.com/subsquid/hydra) :red_circle:, [Subquery](https://github.com/OnFinality-io/subql) :green_circle:, [Polkadot Profit Transformer](https://github.com/p2p-org/polkadot-profit-transformer) :green_circle:|
-| Blockchain/Event Monitoring | [Web3 Guardian](https://github.com/open-web3-stack/guardian) :yellow_circle:, [Aurras Event Manager](https://github.com/HugoByte/aurras-event-manager) :green_circle:, [@commonwealth/chain-events](https://github.com/hicommonwealth/chain-events) :yellow_circle:|
+| Blockchain/Event Monitoring | [Web3 Guardian](https://github.com/open-web3-stack/guardian) :yellow_circle:, [Aurras Event Manager](https://github.com/HugoByte/aurras-event-manager) :yellow_circle:, [@commonwealth/chain-events](https://github.com/hicommonwealth/chain-events) :yellow_circle:|
 | Gaming | [Mobile Game Framework for Substrate](https://github.com/creator-rs/creator/) :green_circle:| [Amethyst](https://amethyst.rs/) + [Substrate](https://substrate.dev/)
 | No-code Platforms | [EzCode's Polkadot.js plugin on Bubble.io](https://bubble.io/plugin/polkadotjs-1639402639641x977692461648052200), [Blackprint Visual Programming Polkadot.js module](https://github.com/Blackprint/nodes-polkadot.js) :green_circle:| |
 | XCM | [XCM-tools](https://github.com/PureStake/xcm-tools) :green_circle:| |
@@ -121,7 +121,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Gaming | [NewOmega](https://github.com/WiktorStarczewski/newomega.polkadot/blob/master/newomega_delegator/newomega/newomega.rs) :red_circle:| |
 | DAO | [subDAO](https://github.com/SubDAO-Network/subDAO-contracts) :red_circle:, [RainbowDAO](https://github.com/RainbowcityFoundation/RainbowDAO-Protocol-Ink-milestone_1) :red_circle:| |
 | Spam Protection | [Prosopo](https://github.com/prosopo-io/integration) :yellow_circle:| |
-| Other | [Candle Auctions](https://github.com/agryaznov/candle-auction-ink) :red_circle:, [polkasign-contract](https://github.com/SubDAO-Network/polkasign-contract) :red_circle:, [OCEX](https://github.com/w3f-community/ocex-smartcontract) :yellow_circle:| |
+| Other | [Candle Auctions](https://github.com/agryaznov/candle-auction-ink) :red_circle:, [polkasign-contract](https://github.com/SubDAO-Network/polkasign-contract) :red_circle:, [OCEX](https://github.com/w3f-community/ocex-smartcontract) :red_circle:| |
 
 
 ### :link: Chains and Pallets 
