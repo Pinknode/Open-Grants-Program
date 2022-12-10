@@ -77,7 +77,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | CLI Wallet | [Subwallet](https://github.com/yxf/subwallet) :red_circle:, [Proxy-hot-wallet](https://github.com/canontech/proxy-hot-wallet) :red_circle:
 | Multisignature Wallets| [Subscan Multisig UI - React](https://github.com/itering/subscan-multisig-react) :green_circle:, [Subscan Multisig UI](https://github.com/itering/subscan-multisig-ui) :red_circle:, [Dorafactory-Multisig](https://github.com/DoraFactory/dorafactory-multisig) :red_circle:|
 | Hardware Wallets | [Ledger Polkadot](https://github.com/ZondaX/ledger-polkadot) :green_circle:, [Ledger Kusama](https://github.com/Zondax/ledger-kusama) :green_circle:, [NGRAVE](https://ngrave.io/) | Trezor
-| Block Explorers | [Polkascan](https://github.com/polkascan), [Polkastats](https://github.com/Colm3na), [Subscan](https://github.com/itering/subscan) :red_circle:, [Statescan](https://github.com/opensquare-network/statescan) :green_circle:, [Edgscan](https://github.com/edgeware-builders/edgscan) :red_circle:| Ink Smart Contract Explorer, Mempool focused explorer (including parachain transaction)
+| Block Explorers | [Polkascan](https://github.com/polkascan), [Polkastats](https://github.com/Colm3na), [Subscan](https://github.com/itering/subscan) :green_circle:, [Statescan](https://github.com/opensquare-network/statescan) :green_circle:, [Edgscan](https://github.com/edgeware-builders/edgscan) :red_circle:| Ink Smart Contract Explorer, Mempool focused explorer (including parachain transaction)
 | Validator Dashboards | [Polkacube](https://github.com/hashquark-io), [YieldScan](https://github.com/buidl-labs/YieldScan) :red_circle:, [Hubble](https://github.com/w3f-community/hubble/tree/master/app/controllers/polkadot) :red_circle:
 | Node Explorers | [Polkadot Node Explorer](https://github.com/protos-research/polkadot-node-explorer) :red_circle:
 | NFT Explorer | [NFT Explorer for Kusama & Polkadot](https://github.com/kodadot/nft-gallery) :green_circle:
@@ -173,7 +173,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| Secure validator setup | [Polkadot Validation Node Ansible Setup](https://github.com/polkachu/polkadot-validator) :green_circle:, [Trutzone-based HSM](https://github.com/ZondaX), [W3F Polkadot Validator Setup](https://github.com/w3f/polkadot-validator-setup) :red_circle:
+| Secure validator setup | [Polkadot Validation Node Ansible Setup](https://github.com/polkachu/polkadot-validator) :yellow_circle:, [Trutzone-based HSM](https://github.com/ZondaX), [W3F Polkadot Validator Setup](https://github.com/w3f/polkadot-validator-setup) :red_circle:
 | High availability setup | [Archipel](https://github.com/luguslabs/archipel) :green_circle:, [Polkadot Failover Mechanism](https://github.com/protofire/polkadot-failover-mechanism) :red_circle:
 | Load Balanced Endpoints | [terragrunt-polkadot](https://github.com/insight-w3f/terragrunt-polkadot) :red_circle:, [Geometry Labs' Substrate Meta repo](https://github.com/sudoblockio/substrate-meta) :red_circle:
 | Deployment Tools| [Polkadot Package Manager](https://github.com/Blockdaemon/bpm-sdk) :red_circle:, [PolkaHub](https://github.com/akropolisio/polkahub-monorepo) :red_circle:, [Avado](https://github.com/AvadoDServer/AVADO-DNP-Polkadot-custom) :red_circle:, [Polkadot Deployer](https://github.com/w3f/polkadot-deployer) :red_circle:
