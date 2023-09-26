@@ -107,7 +107,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Blockchain Indexing Engine | [Substrate Archive](https://github.com/paritytech/substrate-archive) :red_circle:, [PSQL Indexer](https://github.com/usetech-llc/polkadot_psql_indexer) :red_circle:, [Polkadothub Indexer](https://github.com/figment-networks/polkadothub-indexer) :grey_question:, [Substrate Graph](https://github.com/playzero/substrate-graph) :red_circle:, [Hydra](https://github.com/subsquid/hydra) :red_circle:, [Subquery](https://github.com/OnFinality-io/subql) :green_circle:, [Polkadot Profit Transformer](https://github.com/p2p-org/polkadot-profit-transformer) :yellow_circle:|
 | Blockchain/Event Monitoring | [Web3 Guardian](https://github.com/open-web3-stack/guardian) :red_circle:, [Aurras Event Manager](https://github.com/HugoByte/aurras-event-manager) :green_circle:, [@commonwealth/chain-events](https://github.com/hicommonwealth/chain-events) :red_circle:|
 | Gaming | [Mobile Game Framework for Substrate](https://github.com/creator-rs/creator/) :red_circle:| [Amethyst](https://amethyst.rs/) + [Substrate](https://substrate.dev/)
-| No-code Platforms | [EzCode's Polkadot.js plugin on Bubble.io](https://bubble.io/plugin/polkadotjs-1639402639641x977692461648052200), [Blackprint Visual Programming Polkadot.js module](https://github.com/Blackprint/nodes-polkadot.js) :yellow_circle:| |
+| No-code Platforms | [EzCode's Polkadot.js plugin on Bubble.io](https://bubble.io/plugin/polkadotjs-1639402639641x977692461648052200), [Blackprint Visual Programming Polkadot.js module](https://github.com/Blackprint/nodes-polkadot.js) :red_circle:| |
 | XCM | [XCM-tools](https://github.com/PureStake/xcm-tools) :yellow_circle:| |
 | Wallet Connection | [Tesseract](https://github.com/tesseract-one/Tesseract.rs) :yellow_circle:, [WalletConnect](https://github.com/WalletConnect-Labs/walletconnect-v2-monorepo) :grey_question:| |
 | Other | [open-web3 JS library](https://github.com/open-web3-stack/open-web3.js) :red_circle:, [VM-Bridge](https://github.com/CycanTech/GVM-Bridge) :red_circle:, [srtool](https://github.com/paritytech/srtool) :green_circle:, [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot) :green_circle:, [ORI (Onchain Risk Intelligence)](https://github.com/syntifi/ori) :red_circle:, [PolkaTools](https://github.com/albertov19/PolkaTools) :red_circle:, [polkadot-scripts](https://github.com/paritytech/polkadot-scripts) :red_circle:, [Static analyzer for Substrate FRAME's pallets](https://github.com/simon-perriard/saft) :red_circle:, [Sube](https://github.com/virto-network/sube) :red_circle:, [data-store-sidecar](https://github.com/CESSProject/data-store-sidecar) :red_circle:
@@ -151,7 +151,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Computation/AI | [DeepBrain Chain](https://github.com/DeepBrainChain/DeepBrainChain-MainChain) :red_circle:, [AI Infrastructure on Blockchain](https://github.com/anudit/cerebrum) :red_circle:|
 | Enable specific use-cases | [Robonomics](https://github.com/airalab/substrate-node-robonomics) :yellow_circle:, [UniversalDOT](https://github.com/UniversalDot), [Evercity Sustainable Finance Protocol](https://github.com/EvercityEcosystem/evercity-chain) :red_circle:, [Fennel Protocol](https://github.com/fennelLabs/Fennel-Protocol) :yellow_circle:, [logion](https://github.com/logion-network/)
 | NFT | [ternoa](https://github.com/capsule-corp-ternoa/chain) :green_circle:, [FRAME Pallet: NFTs for Substrate](https://github.com/danforbes/pallet-nft) :red_circle:, [NFT Parachain by usetech](https://github.com/w3f-community/nft_parachain) :red_circle:, [DNFT](https://github.com/DNFT-Team/dnft-substrate-node/tree/master/pallets) :red_circle:, [RMRK-Substrate](https://github.com/rmrk-team/rmrk-substrate) :red_circle:
-| Randomness | [DKG and Randomness Beacon](https://github.com/Cardinal-Cryptography/substrate/tree/randomness-beacon) :green_circle:
+| Randomness | [DKG and Randomness Beacon](https://github.com/Cardinal-Cryptography/substrate/tree/randomness-beacon) :yellow_circle:
 | Licensing | [Anagolay Network](https://github.com/anagolay/anagolay-chain) :red_circle:| 
 | Banking Integration | [FIAT on-off-ramp](https://github.com/element36-io/ebics-java-service) :red_circle:
 | Crowdfunding | [Imbue Network](https://github.com/ImbueNetwork/imbue) :green_circle:, [Quadratic Funding pallet by Dora](https://github.com/zhangjiannan/QFgrant) :red_circle:, [Quadratic Funding pallet by OAK](https://github.com/OAK-Foundation/quadratic-funding-pallet/tree/master) :red_circle:|  [Minimum Anti-Collusion Infrastructure (MACI)](https://ethresear.ch/t/minimal-anti-collusion-infrastructure/5413) 
@@ -163,7 +163,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| Rust | [Substrate](https://github.com/paritytech/substrate) :green_circle:, [Cumulus](https://github.com/paritytech/cumulus) :green_circle:
+| Rust | [Substrate](https://github.com/paritytech/substrate) :yellow_circle:, [Cumulus](https://github.com/paritytech/cumulus) :yellow_circle:
 | C++ | [Kagome](https://github.com/soramitsu/kagome) :green_circle:
 | Go | [Gossamer](https://github.com/ChainSafe/gossamer) :green_circle:
 | AssemblyScript |
@@ -184,7 +184,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| SR25519 | [rust](https://github.com/w3f/schnorrkel) :green_circle:(contains partial bindings for C, JavaScript, and Python), [.Net bindings](https://github.com/gautamdhameja/sr25519-dotnet) :red_circle:, [C](https://github.com/usetech-llc/sr25519) :red_circle:*(old)*, [C](https://github.com/TerenceGe/sr25519-donna) :red_circle:*(new)*, [C/C++](https://github.com/soramitsu/soramitsu-sr25519-crust) :red_circle:, [C#](https://github.com/usetech-llc/sr25519_dotnet) :red_circle:, [Go](https://github.com/ChainSafe/go-schnorrkel) :red_circle:, [java](https://github.com/debuggor/schnorrkel-java) :red_circle:, [PHP](https://github.com/gmajor-encrypt/sr25519-bindings) :red_circle:
+| SR25519 | [rust](https://github.com/w3f/schnorrkel) :green_circle:(contains partial bindings for C, JavaScript, and Python), [.Net bindings](https://github.com/gautamdhameja/sr25519-dotnet) :red_circle:, [C](https://github.com/usetech-llc/sr25519) :red_circle:*(old)*, [C](https://github.com/TerenceGe/sr25519-donna) :red_circle:*(new)*, [C/C++](https://github.com/soramitsu/soramitsu-sr25519-crust) :red_circle:, [C#](https://github.com/usetech-llc/sr25519_dotnet) :red_circle:, [Go](https://github.com/ChainSafe/go-schnorrkel) :green_circle:, [java](https://github.com/debuggor/schnorrkel-java) :red_circle:, [PHP](https://github.com/gmajor-encrypt/sr25519-bindings) :red_circle:
 | Distributed key generation (DKG) | [keygen.rs](https://github.com/isislovecruft/frost-dalek) :red_circle:
 | Validator HSMs| |
 | Validator HSM-like solutions|
@@ -194,9 +194,9 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
 | PoC | [Spartan](https://github.com/subspace/substrate) :red_circle:|
-| PoW | [PoW consensus for Substrate](https://github.com/paritytech/substrate/tree/master/client/consensus/pow) :green_circle:, [RandomX](https://github.com/kulupu/kulupu/tree/master/pow) :red_circle:, [Sha3 PoW](https://github.com/substrate-developer-hub/recipes/tree/master/consensus/sha3pow) :red_circle:|
-| Block production | [BABE](https://github.com/paritytech/substrate/tree/master/client/consensus/babe) :green_circle:, [Aura](https://github.com/paritytech/substrate/tree/master/client/consensus/aura) :green_circle:|
-| Finality | [GRANDPA](https://github.com/paritytech/substrate/tree/master/frame/grandpa) :green_circle:|
+| PoW | [PoW consensus for Substrate](https://github.com/paritytech/substrate/tree/master/client/consensus/pow) :yellow_circle:, [RandomX](https://github.com/kulupu/kulupu/tree/master/pow) :red_circle:, [Sha3 PoW](https://github.com/substrate-developer-hub/recipes/tree/master/consensus/sha3pow) :red_circle:|
+| Block production | [BABE](https://github.com/paritytech/substrate/tree/master/client/consensus/babe) :yellow_circle:, [Aura](https://github.com/paritytech/substrate/tree/master/client/consensus/aura) :yellow_circle:|
+| Finality | [GRANDPA](https://github.com/paritytech/substrate/tree/master/frame/grandpa) :yellow_circle:|
 | Other | [Nimbus: Upgradeable consensus framework](https://github.com/PureStake/nimbus) :yellow_circle:| 
 
 
