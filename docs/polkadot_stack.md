@@ -76,7 +76,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Burner Wallets/Faucet| [KodaDot](https://kodadot.js.org/), [Astar Faucet Bot](https://github.com/AstarNetwork/astar-faucet-bot) :red_circle:| Faucet (a sybil-resistant way to receive free tokens)
 | CLI Wallet | [Subwallet](https://github.com/yxf/subwallet) :red_circle:, [Proxy-hot-wallet](https://github.com/canontech/proxy-hot-wallet) :red_circle:
 | Multisignature Wallets| [Subscan Multisig UI - React](https://github.com/itering/subscan-multisig-react) :red_circle:, [Subscan Multisig UI](https://github.com/itering/subscan-multisig-ui) :red_circle:, [Dorafactory-Multisig](https://github.com/DoraFactory/dorafactory-multisig) :red_circle:|
-| Hardware Wallets | [Ledger Polkadot](https://github.com/ZondaX/ledger-polkadot) :red_circle:, [Ledger Kusama](https://github.com/Zondax/ledger-kusama) :yellow_circle:, [NGRAVE](https://ngrave.io/) | Trezor
+| Hardware Wallets | [Ledger Polkadot](https://github.com/ZondaX/ledger-polkadot) :red_circle:, [Ledger Kusama](https://github.com/Zondax/ledger-kusama) :red_circle:, [NGRAVE](https://ngrave.io/) | Trezor
 | Block Explorers | [Polkascan](https://github.com/polkascan), [Polkastats](https://github.com/Colm3na), [Subscan](https://github.com/itering/subscan) :red_circle:, [Statescan](https://github.com/opensquare-network/statescan) :red_circle:, [Edgscan](https://github.com/edgeware-builders/edgscan) :red_circle:| Ink Smart Contract Explorer, Mempool focused explorer (including parachain transaction)
 | Validator Dashboards | [Polkacube](https://github.com/hashquark-io), [YieldScan](https://github.com/buidl-labs/YieldScan) :red_circle:, [Hubble](https://github.com/w3f-community/hubble/tree/master/app/controllers/polkadot) :red_circle:
 | Node Explorers | [Polkadot Node Explorer](https://github.com/protos-research/polkadot-node-explorer) :red_circle:
@@ -117,7 +117,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
 | Bridges | [Dante Protocol](https://github.com/dantenetwork/protocol-stack-for-ink) :red_circle:| |
-| DeFi | [Vera](https://github.com/veradefi/defi) :red_circle:, [Nsure Insurance](https://github.com/nsure-tech/dot-contract) :grey_question:, [Everlasting Cash](https://github.com/CycanTech/ELC) :red_circle:, [Coinversation](https://github.com/Coinversation/coinpro) :red_circle:, [zenlink-dex-contract](https://github.com/zenlinkpro/zenlink-dex-contract) :red_circle:, [AlgoCash](https://github.com/ReserveLabs/AlgoCash) :yellow_circle:| New seigniorage-style stable coins
+| DeFi | [Vera](https://github.com/veradefi/defi) :red_circle:, [Nsure Insurance](https://github.com/nsure-tech/dot-contract) :grey_question:, [Everlasting Cash](https://github.com/CycanTech/ELC) :red_circle:, [Coinversation](https://github.com/Coinversation/coinpro) :red_circle:, [zenlink-dex-contract](https://github.com/zenlinkpro/zenlink-dex-contract) :red_circle:, [AlgoCash](https://github.com/ReserveLabs/AlgoCash) :red_circle:| New seigniorage-style stable coins
 | Gaming | [NewOmega](https://github.com/WiktorStarczewski/newomega.polkadot/blob/master/newomega_delegator/newomega/newomega.rs) :red_circle:| |
 | DAO | [subDAO](https://github.com/SubDAO-Network/subDAO-contracts) :grey_question:, [RainbowDAO](https://github.com/RainbowcityFoundation/RainbowDAO-Protocol-Ink-milestone_1) :red_circle:| |
 | Spam Protection | [Prosopo](https://github.com/prosopo-io/integration) :red_circle:| |
