@@ -164,7 +164,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
 | Rust | [Substrate](https://github.com/paritytech/substrate) :red_circle:, [Cumulus](https://github.com/paritytech/cumulus) :red_circle:
-| C++ | [Kagome](https://github.com/soramitsu/kagome) :green_circle:
+| C++ | [Kagome](https://github.com/soramitsu/kagome) :yellow_circle:
 | Go | [Gossamer](https://github.com/ChainSafe/gossamer) :green_circle:
 | AssemblyScript |
 | Light Client | [Substrate Connect](https://github.com/paritytech/substrate-connect) :green_circle:|
@@ -184,7 +184,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 
 | Components | Existing projects | Potentially interesting projects
 |-|-|-
-| SR25519 | [rust](https://github.com/w3f/schnorrkel) :green_circle:(contains partial bindings for C, JavaScript, and Python), [.Net bindings](https://github.com/gautamdhameja/sr25519-dotnet) :red_circle:, [C](https://github.com/usetech-llc/sr25519) :red_circle:*(old)*, [C](https://github.com/TerenceGe/sr25519-donna) :yellow_circle:*(new)*, [C/C++](https://github.com/soramitsu/soramitsu-sr25519-crust) :red_circle:, [C#](https://github.com/usetech-llc/sr25519_dotnet) :red_circle:, [Go](https://github.com/ChainSafe/go-schnorrkel) :red_circle:, [java](https://github.com/debuggor/schnorrkel-java) :red_circle:, [PHP](https://github.com/gmajor-encrypt/sr25519-bindings) :red_circle:
+| SR25519 | [rust](https://github.com/w3f/schnorrkel) :green_circle:(contains partial bindings for C, JavaScript, and Python), [.Net bindings](https://github.com/gautamdhameja/sr25519-dotnet) :red_circle:, [C](https://github.com/usetech-llc/sr25519) :red_circle:*(old)*, [C](https://github.com/TerenceGe/sr25519-donna) :red_circle:*(new)*, [C/C++](https://github.com/soramitsu/soramitsu-sr25519-crust) :red_circle:, [C#](https://github.com/usetech-llc/sr25519_dotnet) :red_circle:, [Go](https://github.com/ChainSafe/go-schnorrkel) :red_circle:, [java](https://github.com/debuggor/schnorrkel-java) :red_circle:, [PHP](https://github.com/gmajor-encrypt/sr25519-bindings) :red_circle:
 | Distributed key generation (DKG) | [keygen.rs](https://github.com/isislovecruft/frost-dalek) :red_circle:
 | Validator HSMs| |
 | Validator HSM-like solutions|
